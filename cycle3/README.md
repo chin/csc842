@@ -4,7 +4,7 @@ Might as well do all the things with a simple script. Then takes it a step furth
 ## Python modules
 - networkx
 - pandas
-- mathplotlib
+- matplotlib
 - nmap
 ## Future Work
 - Make output pretty
