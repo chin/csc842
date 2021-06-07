@@ -10,5 +10,5 @@ Might as well do all the things with a simple script. Then takes it a step furth
 - Make output pretty
 - Make sure people don't run in coffee shops
 - Incorporate nmap vulnerability scanning on hosts
-- [X]Incorporate nmap scanning on hosts graphed
+- [X] Incorporate nmap scanning on hosts graphed
 - Be "less noisy" =)
