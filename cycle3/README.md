@@ -7,6 +7,8 @@ Might as well do all the things with a simple script. Then takes it a step furth
 - mathplotlib
 - nmap
 ## Future Work
+- Make output pretty
+- Make sure people don't run in coffee shops
 - Incorporate nmap vulnerability scanning on hosts
-- Incorporate nmap scanning in graphing capability
+- [X]Incorporate nmap scanning on hosts graphed
 - Be "less noisy" =)
