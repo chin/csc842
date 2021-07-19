@@ -18,4 +18,4 @@ A coworker has been complaining about generating passwords that match up to comp
 ## Future Work
 - Define and Control the exact number of complexities not just min for "at least as many"
 - Take user input to generate pseudo-random pwds based on input phrases
-- GUI https://itsourcecode.com/free-projects/python-projects/python-generate-random-string-password-source-code/
+- GUI!?
