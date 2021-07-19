@@ -1,6 +1,6 @@
 # Cycle 7: Random Password Generator
 ## Usage
-python pwgen.py -l # 
+python pwgen.py -l  # 
 
 ## Motivation
 A coworker has been complaining about generating passwords that match up to complexity standards in each of the environments we work in. Obviously, we should also use different passwords for each account type in use. I told them I'd script a password generator for their personal use.
